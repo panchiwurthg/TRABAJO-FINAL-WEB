@@ -1,33 +1,55 @@
 # TRABAJO-FINAL-WEB
-Tema: La Industria del Cine en Datos
+# Tema: Las Franquicias más taquilleras del Cine
 
-Este proyecto busca visualizar de forma dinámica e interactiva la evolución del cine comercial global a través de las películas más taquilleras de cada año. La idea es que el usuario pueda explorar cómo cambian las preferencias del público con el tiempo, qué géneros dominan cada década y cuáles son los estudios, directores o franquicias más recurrentes.
+Este proyecto se enfocará en visualizar de forma interactiva y comparativa las franquicias cinematográficas más taquilleras de todos los tiempos, analizando su evolución, el impacto económico de cada entrega y las tendencias dominantes en la industria del entretenimiento global.
 
-Además de fomentar el interés por el cine, esta web busca poner en evidencia ciertos patrones culturales, económicos y narrativos que se repiten o evolucionan a lo largo del tiempo en la industria cinematográfica.
+La web estará pensada como un dashboard informativo, donde el usuario podrá explorar franquicias como Marvel, Harry Potter, Star Wars, Rápido y Furioso, entre otras, a través de gráficos dinámicos y filtros que permitan comparar por estudio, recaudación, número de películas y año de lanzamiento.
 
-En esta web se podrán encontrar datos como:
+## Franquicias a trabajar 
+* Star Wars
+* Harry Potter
+* Rápidos y Furiosos
+* Misión Imposible
+* El señor de los Anillos
+* Transformers
+* Spider Man
+* Batman
+* James Bond
+* Indiana Jones
 
-Nombre de la película
+## Datos a trabajar por Franquicia
+* Nombre y estudio al que pertenece
+* Director
+* Número de películas
+* Género y año de estreno
+* Recaudación por película
+* Años activos
 
-Año de estreno
+## Datos comparativos entre Franquicias
+* Recaudación total por franquicia
+* Recaudación total en el fin de semana de estreno
+* Película más taquillera por franquicia
+* Dominio de la industria según Estudio
+* Géneros más vistos
+* Ranking IMDb
 
-Recaudación en taquilla (ajustada por inflación y sin ajustar)
+## Fuentes de los datos
+- _The Numbers_: https://www.the-numbers.com/movies/franchises
+- _Bos Office Mojo_: https://www.boxofficemojo.com/franchise/
+- _Wikipedia_: https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_franchises_and_film_series
+- _IMDb_: https://www.imdb.com/es/chart/top/?ref_=nv_mv_250
 
-Género principal
+## Fuentes de inspiración
+- _ShortHand_:
+  * https://preview.shorthand.com/xtYBJStuSOVKFbCA
+  * https://preview.shorthand.com/rwhX042KDaWlP5nA
+  * https://preview.shorthand.com/zrUSEBaGBX41qr2U
+  * https://preview.shorthand.com/rf64CRDEOsHDXVY1
+- _The Pudding_:
+  * https://pudding.cool/2025/04/music-dna/
+  * https://pudding.cool/2025/04/wine-animals/
+  * https://pudding.cool/2024/11/love-songs/
 
-País de origen
 
-Estudio productor
 
-Director
-
-Valoración promedio (IMDb/Rotten Tomatoes)
-
-Fuentes de información:
-
-IMDb — https://www.imdb.com/chart/boxoffice/
-
-Rotten Tomatoes — https://www.rottentomatoes.com/
-
-Statista (sección Cine y TV) — https://www.statista.com/topics/964/film/
 
