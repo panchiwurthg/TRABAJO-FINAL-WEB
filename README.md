@@ -30,7 +30,6 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
 * Recaudación total en el fin de semana de estreno
 * Película más taquillera por franquicia
 * Dominio de la industria según Estudio
-* Géneros más vistos
 * Ranking IMDb
 
 ## Fuentes de los datos
