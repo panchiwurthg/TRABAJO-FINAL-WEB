@@ -45,11 +45,18 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
   * https://pudding.cool/2025/04/wine-animals/
   * https://pudding.cool/2024/11/love-songs/
  
-| FUENTE        | DESCRIPCIÓN   |     LINK       | ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS |
-| ------------- |:-------------:| --------------:| ------------------:| -----------------: |
-| Shorthand     | right-aligned | $1600          |                    |                    |
-| Shorthand     | centered      |   $12          |                    |                    |
+| FUENTE        | DESCRIPCIÓN   |     LINK                                              | ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS |
+| ------------- |:-------------:| -----------------------------------------------------:| ------------------:| -----------------: |
+| Shorthand     | right-aligned | https://preview.shorthand.com/xtYBJStuSOVKFbCA        |                    |                    |
+| Shorthand     | centered      | https://preview.shorthand.com/rwhX042KDaWlP5nA        |        <img width="878" alt="Captura de pantalla 2025-06-06 a la(s) 12 00 46" src="https://github.com/user-attachments/assets/46192210-e191-40c4-a899-a8ff86c8eb7c" />
+            |                    |
 | The Pudding   | are neat      |    $1          |                    |                    |
+
+| FUENTE        | DESCRIPCIÓN   | LINK                                                  | ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS |
+| ------------- |:-------------:| -----:|
+| Shorthand     | right-aligned | https://preview.shorthand.com/xtYBJStuSOVKFbCA        |                    |                    |
+| Shorthand     | centered      |https://preview.shorthand.com/rwhX042KDaWlP5nA  |
+| Shorthand | <img width="878" alt="Captura de pantalla 2025-06-06 a la(s) 12 00 46" src="https://github.com/user-attachments/assets/46192210-e191-40c4-a899-a8ff86c8eb7c" /> | https://preview.shorthand.com/rf64CRDEOsHDXVY1 | 
 
 
 
