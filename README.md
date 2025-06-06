@@ -18,19 +18,15 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
 * Indiana Jones
 
 ## Datos a trabajar por Franquicia
-* Nombre y estudio al que pertenece
+* Películas
+* Año de estreno
 * Director
-* Número de películas
-* Género y año de estreno
-* Recaudación por película
-* Años activos
-
-## Datos comparativos entre Franquicias
-* Recaudación total por franquicia
-* Recaudación total en el fin de semana de estreno
-* Película más taquillera por franquicia
-* Dominio de la industria según Estudio
-* Ranking IMDb
+* Estudio al que pertenece
+* Género
+* Budget
+* Recaudación global por película
+* Recaudación en estreno por película
+* Puntuación IMDB
 
 ## Fuentes de los datos
 - _The Numbers_: https://www.the-numbers.com/movies/franchises
@@ -48,6 +44,12 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
   * https://pudding.cool/2025/04/music-dna/
   * https://pudding.cool/2025/04/wine-animals/
   * https://pudding.cool/2024/11/love-songs/
+ 
+| FUENTE        | DESCRIPCIÓN   |     LINK       | ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS |
+| ------------- |:-------------:| --------------:| ------------------:| -----------------: |
+| Shorthand     | right-aligned | $1600          |                    |                    |
+| Shorthand     | centered      |   $12          |                    |                    |
+| The Pudding   | are neat      |    $1          |                    |                    |
 
 
 
