@@ -45,7 +45,10 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
   * https://pudding.cool/2025/04/wine-animals/
   * https://pudding.cool/2024/11/love-songs/
  
-Three or more...
+
+<img width="1015" alt="Captura de pantalla 2025-06-08 a la(s) 19 54 15" src="https://github.com/user-attachments/assets/84fb8e91-7f03-4a00-b4c7-e86707c8cf5e" />
+https://pudding.cool/2017/03/film-dialogue/
+De esta página se rescata cómo se muestra gráficamente la diferencia de diálogos entre géneros. Para mi página podría mostrarse este mismo formato para comparar las ganancias entre franquicias.
 
 ---
 
