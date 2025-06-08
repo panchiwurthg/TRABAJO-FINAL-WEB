@@ -45,22 +45,19 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
   * https://pudding.cool/2025/04/wine-animals/
   * https://pudding.cool/2024/11/love-songs/
  
-| FUENTE        | DESCRIPCIÓN   |  ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS | LINK |
-| ------------- |:-------------:| -------------------:| ------------------:| ---: |
-| Shorthand     |<img width="1064" alt="Captura de pantalla 2025-06-06 a la(s) 12 08 53" src="https://github.com/user-attachments/assets/3ecd9959-c0d9-4abe-a377-cdb1d4a86baf" />
-| forma de hacer didáctica la muestra de información con gráficos | bien simple la página | https://preview.shorthand.com/xtYBJStuSOVKFbCA |     
-| Shorthand     | centered      | https://preview.shorthand.com/rwhX042KDaWlP5nA        |        <img width="878" alt="Captura de pantalla 2025-06-06 a la(s) 12 00 46" src="https://github.com/user-attachments/assets/46192210-e191-40c4-a899-a8ff86c8eb7c" />
-            |                    |
-| The Pudding   | are neat      |    $1          |                    |                    |
+Three or more...
 
-| FUENTE    | DESCRIPCIÓN   | ASPECTOS POSITIVOS | ASPECTOS NEGATIVOS | LINK |
-| --------- |:-------------:| ------------------:|-------------------:|-----:|
-| Shorthand | <img width="1064" alt="Captura de pantalla 2025-06-06 a la(s) 12 08 53" src="https://github.com/user-attachments/assets/3ecd9959-c0d9-4abe-a377-cdb1d4a86baf" />                    | forma de hacer didáctica la muestra de información con gráficos | bien simple la página | https://preview.shorthand.com/xtYBJStuSOVKFbCA |       
-| Shorthand | <img width="1333" alt="Captura de pantalla 2025-06-06 a la(s) 12 19 06" src="https://github.com/user-attachments/assets/b495a4ee-2ace-47dc-bd81-d59275a684fe" />
-| como entran y salen las imágenes de los jugadores, se podría hacer lo mismo por película/director | bien simple la página  | https://preview.shorthand.com/rwhX042KDaWlP5nA 
-| Shorthand | <img width="878" alt="Captura de pantalla 2025-06-06 a la(s) 12 00 46" src="https://github.com/user-attachments/assets/46192210-e191-40c4-a899-a8ff86c8eb7c" /> |                   
-| la forma de mostrar el título bajando el cursor, que los colores sean contrastantes | bien simple la página  | https://preview.shorthand.com/rf64CRDEOsHDXVY1
+---
 
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
 
 
 
