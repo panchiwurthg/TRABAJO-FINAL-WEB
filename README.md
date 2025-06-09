@@ -34,7 +34,7 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
 - _Wikipedia_: https://en.wikipedia.org/wiki/List_of_highest-grossing_films#Highest-grossing_franchises_and_film_series
 - _IMDb_: https://www.imdb.com/es/chart/top/?ref_=nv_mv_250
 
-## Fuentes de inspiración
+## Referentes
  
 <img width="1402" alt="Captura de pantalla 2025-06-08 a la(s) 20 28 32" src="https://github.com/user-attachments/assets/ddb602f9-75a2-4a6c-9f02-933d1605fc82" />
 <img width="1371" alt="Captura de pantalla 2025-06-08 a la(s) 20 28 47" src="https://github.com/user-attachments/assets/e176d9bb-d056-43ba-9535-c5be2df50786" />
