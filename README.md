@@ -35,32 +35,28 @@ La web estará pensada como un dashboard informativo, donde el usuario podrá ex
 - _IMDb_: https://www.imdb.com/es/chart/top/?ref_=nv_mv_250
 
 ## Fuentes de inspiración
-- _ShortHand_:
-  * https://preview.shorthand.com/xtYBJStuSOVKFbCA
-  * https://preview.shorthand.com/rwhX042KDaWlP5nA
-  * https://preview.shorthand.com/zrUSEBaGBX41qr2U
-  * https://preview.shorthand.com/rf64CRDEOsHDXVY1
-- _The Pudding_:
-  * https://pudding.cool/2025/04/music-dna/
-  * https://pudding.cool/2025/04/wine-animals/
-  * https://pudding.cool/2024/11/love-songs/
  
+<img width="1402" alt="Captura de pantalla 2025-06-08 a la(s) 20 28 32" src="https://github.com/user-attachments/assets/ddb602f9-75a2-4a6c-9f02-933d1605fc82" />
+<img width="1371" alt="Captura de pantalla 2025-06-08 a la(s) 20 28 47" src="https://github.com/user-attachments/assets/e176d9bb-d056-43ba-9535-c5be2df50786" />
+ https://preview.shorthand.com/xtYBJStuSOVKFbCA
+ Se rescata de esta página el scroll narrativo lineal con grandes imágenes de fondo y las divisiones marcadas por capítulos/secciones. De esta forma se puede estructurar la infografía como “capítulos” por franquicia (Marvel, Harry Potter, etc.).
+ 
+ ---
 
 <img width="1015" alt="Captura de pantalla 2025-06-08 a la(s) 19 54 15" src="https://github.com/user-attachments/assets/84fb8e91-7f03-4a00-b4c7-e86707c8cf5e" />
 https://pudding.cool/2017/03/film-dialogue/
 De esta página se rescata cómo se muestra gráficamente la diferencia de diálogos entre géneros. Para mi página podría mostrarse este mismo formato para comparar las ganancias entre franquicias.
 
 ---
+<img width="1512" alt="Captura de pantalla 2025-06-08 a la(s) 20 03 04" src="https://github.com/user-attachments/assets/d509cc41-461c-481e-9b29-4be9d2b74201" />
+https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
+En esta página se hace una comparación directa entre películas con múltiples variables (IMDb, Rotten Tomatoes, taquilla, etc.). Se puede replicar visualmente: rendimiento crítico vs. comercial por película.
 
-Hyphens
+---
+<img width="1111" alt="Captura de pantalla 2025-06-08 a la(s) 20 15 54" src="https://github.com/user-attachments/assets/0515cacd-d64b-4a91-8593-95144ee82298" />
+<img width="969" alt="Captura de pantalla 2025-06-08 a la(s) 20 16 23" src="https://github.com/user-attachments/assets/5745596c-17a5-457c-8c85-a17f381613f3" />
+https://lotr.visualcinnamon.com/
+De esta página se rescatan las visualizaciones circulares, se podría usar esta visualización para mostrar relaciones entre películas de una misma franquicia (personajes, directores, spin-offs), se aprovecha la navegación tipo storytelling scroll para presentar una saga a la vez.
 
-***
-
-Asterisks
-
-___
-
-Underscores
-
-
+---
 
