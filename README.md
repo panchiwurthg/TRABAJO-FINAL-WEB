@@ -59,4 +59,9 @@ https://lotr.visualcinnamon.com/
 De esta página se rescatan las visualizaciones circulares, se podría usar esta visualización para mostrar relaciones entre películas de una misma franquicia (personajes, directores, spin-offs), se aprovecha la navegación tipo storytelling scroll para presentar una saga a la vez.
 
 ---
+<img width="906" alt="Captura de pantalla 2025-06-08 a la(s) 20 40 01" src="https://github.com/user-attachments/assets/8b328734-8772-4da1-aae9-c786b31aacb1" />
+<img width="1260" alt="Captura de pantalla 2025-06-08 a la(s) 20 40 25" src="https://github.com/user-attachments/assets/bce90c8d-4ac1-4dfe-95a4-ced42907ed5c" />
+<img width="1411" alt="Captura de pantalla 2025-06-08 a la(s) 20 41 19" src="https://github.com/user-attachments/assets/3b10f8d9-07e6-4d41-b939-d76a79dabcfd" />
+https://pudding.cool/2025/04/wine-animals/
+De esta página se pueden tomar las gráficas visuales para usarla en mostrar comparativas entre una misma franquicia o entre franquicias
 
