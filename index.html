@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Franquicias más taquilleras del cine</title>
+    <link href="estilo.css" rel="stylesheet" />
+  </head>
+  <body>
+    <script>
+     async function datos() {
+                const consulta = await fetch("https://raw.githubusercontent.com/panchiwurthg/TRABAJO-FINAL-WEB/refs/heads/main/datosjson.json");
+                data = await consulta.json();
+                console.log(data);
+                }
+            datos().catch((error) => console.error(error));
+    </script>
+
+    <header>
+      <div class="titulo">
+        <div class="text-container">
+          <h1 class="fade-in" id="titulo">¿Cuál es la franquicia más taquillera del cine?</h1>
+          <h2 class="fade-in" id="subtitulo">Un recorrido visual por las sagas que rompieron récords</h2>
+          <p class="fade-in" id="texto">Explora cómo las franquicias más famosas del cine han conquistado la taquilla mundial. Desde Star Wars hasta Rápido y Furioso, descubre qué sagas han marcado tendencia en la industria del entretenimiento.</p>
+        </div>
+      </div>
+
+    <script>
+        const options = {
+          threshold: 0.5
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+            }
+          });
+        }, options);
+
+        document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+    </script>
+    </header>
+
+    <main>
+      <article>
+        <h3>Harry Potter y el legado mágico</h3>
+        <figure>
+          <img src="https://your-image-link.com/harrypotter.jpg" alt="Harry Potter Box Office">
+          <figcaption>Recaudación por película</figcaption>
+        </figure>
+        <p>La saga original y sus precuelas (Animales Fantásticos) han mantenido el interés de generaciones. Descubre cómo su éxito se distribuye entre cada entrega.</p>
+      </article>
+
+      <article>
+        <h3>Star Wars: Una galaxia muy lucrativa</h3>
+        <figure>
+          <img src="https://your-image-link.com/starwars.jpg" alt="Star Wars Revenue Chart">
+          <figcaption>Ingresos por trilogía</figcaption>
+        </figure>
+        <p>Desde 1977, Star Wars ha sido sinónimo de cultura pop y ventas millonarias. Las nuevas trilogías y spin-offs impulsaron su retorno en el siglo XXI.</p>
+      </article>
+
+      <article>
+        <h3>Batman ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Batman Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>El señor de los anillos ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="El señor de los anillos Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Indiana Jones ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Indiana Jones Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>James Bond ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="James Bond Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Misión Imposible ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Misión Imposible Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Transformers ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Transformers Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Spider Man ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Spider Man Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Rápidos y Furiosos ...</h3>
+        <figure>
+          <img src="https://your-image-link.com/marvel.jpg" alt="Rápidos y furiosos Franchise Overview">
+          <figcaption>Comparación de ingresos por fase del MCU</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Comparativa entre franquicias 1</h3>
+        <figure>
+          <img src="https://your-image-link.com/comparativa.jpg" alt="Comparativa General">
+          <figcaption>Gráfico comparativo total entre franquicias</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Comparativa entre franquicias 2</h3>
+        <figure>
+          <img src="https://your-image-link.com/comparativa.jpg" alt="Comparativa General">
+          <figcaption>Gráfico comparativo total entre franquicias</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+            <article>
+        <h3>Comparativa entre franquicias 3</h3>
+        <figure>
+          <img src="https://your-image-link.com/comparativa.jpg" alt="Comparativa General">
+          <figcaption>Gráfico comparativo total entre franquicias</figcaption>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      </article>
+
+      <article>
+        <h3>Más allá de los números</h3>
+        <p>La popularidad de una franquicia no solo se mide en taquilla. Factores como crítica, impacto cultural, fidelidad del fandom y longevidad también construyen su legado.</p>
+      </article>
+    </main>
+
+    <footer>
+      <p>Por Francisca Würth</p>
+      <p>Datos obtenidos de The Numbers, IMDb, Box Office Mojo y Wikipedia.</p>
+      <p>Curso OPR Desarrollo Web y Diseño Visual de Información</p>
+      <p>Universidad Católica, 2025-1</p>
+    </footer>
+  </body>
+</html>
